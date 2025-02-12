@@ -49,3 +49,15 @@ The project consists of three main files:
 
 📜 License
 This project is open-source and available under the MIT License.
+
+📬 Contact & Support
+For questions, feedback, or suggestions, feel free to reach out:
+
+📧 Email: prushti.bhalala3010@gmail.com
+🐙 GitHub: your-github-username
+🌍 Live Demo: 📬 Contact & Support
+For questions, feedback, or suggestions, feel free to reach out:
+
+📧 Email: your-email@example.com
+🐙 GitHub: your-github-username
+🌍 Live Demo: 

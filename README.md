@@ -58,6 +58,6 @@ For questions, feedback, or suggestions, feel free to reach out:
 🌍 Live Demo: 📬 Contact & Support
 For questions, feedback, or suggestions, feel free to reach out:
 
-📧 Email: your-email@example.com
-🐙 GitHub: your-github-username
-🌍 Live Demo: 
+📧 Email: prushti.bhalala3010@gmail.com
+🐙 GitHub: bhalalaprushti30
+🌍 Live Demo: https://bhalalaprushti30.github.io/Interactive-Quiz-Application/
